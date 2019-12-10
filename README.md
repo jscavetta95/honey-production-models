@@ -1,2 +1,3 @@
-# honey-production-models
-Predictive Modeling of Honey Production using Bio-climatic Variables
+Predicting Honey Production with Bioclimatic Variables
+
+The data and the interactive predictive maps need to be uncompressed.
